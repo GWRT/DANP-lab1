@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "301240420929",
+    "project_id": "registroasistentes-b4a3a",
+    "storage_bucket": "registroasistentes-b4a3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301240420929:android:3baeb91012465d8d8cd4c0",
+        "android_client_info": {
+          "package_name": "com.example.idnp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301240420929-bkd26tfh36t907kq9ac5i3vlupdjqpob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4bMaYX3x1WbwAlbdxsRHhEJuZ-Z8kEWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301240420929-bkd26tfh36t907kq9ac5i3vlupdjqpob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301240420929:android:97d8e3c5b49942bd8cd4c0",
+        "android_client_info": {
+          "package_name": "com.example.registro_asistentes_compose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301240420929-bkd26tfh36t907kq9ac5i3vlupdjqpob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4bMaYX3x1WbwAlbdxsRHhEJuZ-Z8kEWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301240420929-bkd26tfh36t907kq9ac5i3vlupdjqpob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
